@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+ul {
+  display: flex;
+  justify-content: center;
+}
+
+ul li {
+  display: flex;
+  margin-right: 10px;
+}
+
+button {
+  margin-right: 5px;
+}
+
+.listDisplay {
+  border: 5px inset red;
+  max-width: ;
+}
